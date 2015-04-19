@@ -1,0 +1,16 @@
+c:\users\brownielover\documents\visual studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\brownielover\documents\visual studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\brownielover\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+c:\users\brownielover\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\brownielover\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+c:\users\brownielover\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+c:\users\brownielover\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+C:\Users\Brownielover\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache

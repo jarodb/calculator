@@ -1,0 +1,7 @@
+C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\obj\x86\Release\Calculator.Calculator.resources
+C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\obj\x86\Release\Calculator.Properties.Resources.resources
+C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\obj\x86\Release\Calculator.csproj.GenerateResource.Cache
+C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\obj\x86\Release\Calculator.exe
+C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\obj\x86\Release\Calculator.pdb
