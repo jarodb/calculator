@@ -63,7 +63,6 @@ namespace Calculator
         private void clearEntry_Click(object sender, EventArgs e)
         {
             resultBox.Text = "0";
-            result = 0;
         }
 
         private void clearAll_Click(object sender, EventArgs e)

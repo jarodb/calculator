@@ -5,3 +5,4 @@ C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\obj\x86\
 C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\obj\x86\Release\Calculator.csproj.GenerateResource.Cache
 C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\obj\x86\Release\Calculator.exe
 C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\obj\x86\Release\Calculator.pdb
+C:\Users\Brownielover\Documents\GitHub\calculator\Calculator\Calculator\obj\x86\Release\Calculator.csprojResolveAssemblyReference.cache
